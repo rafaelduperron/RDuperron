@@ -1,0 +1,6 @@
+[redshift]
+db=segment
+host=redshift-fabfitfun-trjlsf-cluster-1r1losjgonryz.cvoveqqxaaq5.us-west-2.redshift.amazonaws.com
+port=5439
+username=rs_sa_fpa
+password=oYAapm-wYq9MzrwD
